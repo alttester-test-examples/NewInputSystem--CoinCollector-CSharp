@@ -4,6 +4,7 @@ This project contains C# AltTester tests for a project using the New Input Syste
 The tested actions are: tap object, key down/ key up, press key, click object, scroll, begin/end touch and tap simulated with swipe.
 
 ## Before running the tests
+❗ Starting with version 2.0.0, the AltTester Desktop must be running on your PC while the tests are running.
 To run the tests, you must include the AltTester Unity SDK in the project. To do that, you can choose between the following ways:
 1. Install the [AltTesterDesktop](https://alttester.com/app/uploads/AltTester/desktop/AltTesterDesktopPackageMac__v2.0.1.zip), then open it.
 2. Add the AltTester Unity SDK submodule to the project
