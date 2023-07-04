@@ -14,7 +14,7 @@ To run the tests, you must include the AltTester Unity SDK in the project. To do
 
     <br> 
 3. Download AltTester Unity SDK and import it into Unity 
-    - download the AltTester Unity SDK from the Altom website (https://altom.com/testing-tools/alttester/) or using this link https://altom.com/app/uploads/AltTester/sdks/AltTester.unitypackage;
+    - download the AltTester Unity SDK from the AltTester website (https://alttester.com/alttester/#pricing - you will be able to download a package that will contain a unity package) or using this link https://alttester.com/app/uploads/AltTester/sdks/AltTester.unitypackage;
     - import the package into the project (drag-n-drop the package in the Assets folder);
     - a pop-up will appear, select All and click on Import.
 
