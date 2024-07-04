@@ -21,6 +21,6 @@ The tested actions are: tap object, key down/ key up, press key, click object, s
 
 ## Run the tests
 
-You can open the project in the Unity Editor and run the tests from the AltTester Editor window.
+You can open the project in the Unity Editor and run the tests from the AltTester® Editor window.
 
 The tests can be found in the Editor -> Tests folder in the AltTester_NIS_Tests class.
